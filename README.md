@@ -2,7 +2,7 @@
 ## Installation Guide
 Clone the repo
 ```bash
-git clone https://github.com/notrandomath/local-tts.git
+git clone git@github.com:notrandomath/local_tts.git
 ```
 Create the environment (to install conda see [here](https://www.anaconda.com/docs/getting-started/miniconda/install#quickstart-install-instructions))
 ```bash
