@@ -1,0 +1,6 @@
+kokoro
+soundfile
+simpleaudio
+customtkinter
+librosa
+numpy
